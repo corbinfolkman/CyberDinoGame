@@ -1,4 +1,0 @@
-Github does not play nicely with empty files so this will force it to
-create a folder instead of just a meta file
-
-Created April 9 2017 for the updated build with the new file system.
